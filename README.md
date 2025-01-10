@@ -7,6 +7,15 @@
 
 ![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/generador-codigos-de-barra-con-python.png)
 
+### Dependencias
+
+    pip install flask
+    pip install python-barcode
+    pip install pillow
+
+### Instalar todas las dependencias
+
+    pip install -r requirements.txt
 
 ### Expresiones de Gratitud 🎁
 
