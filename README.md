@@ -24,4 +24,8 @@
     Paypal iamdeveloper86@gmail.com
     Da las gracias públicamente 🤓.
 
+No olvides dejar tu estrella ⭐ en el repositorio...
+
+¡dicen que trae buena suerte! 🍀
+
 ## No olvides SUSCRIBIRTE 👍
